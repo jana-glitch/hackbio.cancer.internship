@@ -1,6 +1,5 @@
-**Small molecules in cancer drug discovery**
 
-Learning Track 1: Drug discovery
+Learning Track 1: Drug discovery (Small Molecules)
 
 
 
