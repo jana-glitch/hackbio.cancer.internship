@@ -1,5 +1,5 @@
 
-Learning Track 1: Drug discovery (Small Molecules)
+**Learning Track 1: Drug discovery (Small Molecules)**
 
 
 
