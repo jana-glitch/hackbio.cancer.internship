@@ -2,7 +2,7 @@
 
 Learning Track 1: Drug discovery
 
-(Stage 0 Writing task)
+
 
 
 Tumours are characterised by the abnormal growth of cells that escape normal physiological regulation, damaging healthy tissues and organs. The treatment of cancer faces several challenges due to its complex causes, the impact on normal tissues and organs, and the potential for relapse due to cancer stem cells and metastasis (1). Traditional cancer treatments such as surgery, radiotherapy, and chemotherapy have been widely used, but their inability to differentiate between cancerous and normal cells leads to toxicity and side effects. So, scientists have shifted their focus towards targeted drugs, which can specifically target cancer cells while sparing normal ones, offering high potency with lower toxicity (2).
