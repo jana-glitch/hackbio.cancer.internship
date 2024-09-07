@@ -17,7 +17,7 @@ Drug discovery has evolved from biochemical assays and genetic interactions to m
 6. Model performance was evaluated by calculating the area under the receiver operating characteristic curve (auROC), which averaged 0.48, indicating weak predictive capability.   
 7. Machine learning-based scoring functions were integrated, enhancing the performance
 
-![][image1]  
+![untitled(24)](./hackbio.cancer.internship/untitled(24).png)
 **Figure 1: Predicting Protein-Ligand Interactions Using AlphaFold2 and Molecular Docking and integrating machine learning.** 
 
 **Results**
