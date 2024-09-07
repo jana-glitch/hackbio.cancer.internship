@@ -1,3 +1,4 @@
+post link https://www.linkedin.com/posts/jana-moussa-9b0227244_drugdiscovery-bioinformatics-moleculardocking-activity-7238290930582093824-x5ft?utm_source=share&utm_medium=member_android
 **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**
 
 “Drug Development Track”
