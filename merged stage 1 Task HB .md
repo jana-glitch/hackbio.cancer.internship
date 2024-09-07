@@ -1,9 +1,11 @@
 post link https://www.linkedin.com/posts/jana-moussa-9b0227244_drugdiscovery-bioinformatics-moleculardocking-activity-7238290930582093824-x5ft?utm_source=share&utm_medium=member_android
+
 **Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery**
 
 “Drug Development Track”
 
 Authors: Jana Moussa, Babatunde OWOLOYE, Habiba Sherif, youssif Mohamed.
+slack id: JanaMoussa.0, Tundeodudu, pop-12, youssif74
 
 **Introduction**   
 Drug discovery has evolved from biochemical assays and genetic interactions to molecular docking, a new approach that predicts drug-target interactions. Researchers used reverse docking to discover new drug mechanisms, but the AlphaFold2 protein structure database solved this limitation. They predicted protein-ligand interactions between 218 antibacterial compounds and 296 essential E. coli proteins. Experimental validation confirmed some predictions, but simulations showed weak model accuracy. To improve docking performance, machine learning-based scoring functions were incorporated.
