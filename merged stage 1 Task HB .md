@@ -22,6 +22,7 @@ Drug discovery has evolved from biochemical assays and genetic interactions to m
 7. Machine learning-based scoring functions were integrated, enhancing the performance
 
 ![figure 1](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/Untitled%20(24).png)
+
 **Figure 1: Predicting Protein-Ligand Interactions Using AlphaFold2 and Molecular Docking and integrating machine learning.** 
 
 **Results**
