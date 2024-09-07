@@ -5,6 +5,7 @@ post link https://www.linkedin.com/posts/jana-moussa-9b0227244_drugdiscovery-bio
 “Drug Development Track”
 
 Authors: Jana Moussa, Babatunde OWOLOYE, Habiba Sherif, youssif Mohamed.
+
 slack id: JanaMoussa.0, Tundeodudu, pop-12, youssif74
 
 **Introduction**   
