@@ -32,12 +32,15 @@ Overexpression or mutations in EGFR can lead to uncontrolled cell proliferation.
 
 2.  Active Sites: Tyrosine Kinase Domain:  
    * Location: The active site is in the C-terminal region of EGFR
-   * !(active site)(https://github.com/jana-glitch/hackbio.cancer.internship/blob/main/active%20site.jpg)
-3. Binding Sites: Site 1 (Domain I), Site 2 (Domain III), Site 3 (Domain III)  
-4. Domains: Identified and colour-coded domains (FU and EGF) using PyMOL.
+   ![Active Site Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/active%20site.jpg)
+
+3. Binding Sites: Site 1 (Domain I), Site 2 (Domain III), Site 3 (Domain III)
+4. ![Binding Site Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/binding%20site.jpg)
+
+5. Domains: Identified and colour-coded domains (FU and EGF) using PyMOL.
 ![Domains Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/domains%20white.png)
  
-5. Mutations: (coloured them in orange)  
+6. Mutations: (coloured them in orange)  
    * Receptor Dimerization Interface Mutations:  
      * R285S: Reduction in bioactivity; R285Y had a negligible effect.  
      * R285S \+ Y251A or F263A: Near complete loss of activity.  
