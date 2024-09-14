@@ -27,7 +27,9 @@ Overexpression or mutations in EGFR can lead to uncontrolled cell proliferation.
 
 1. Ligands: (visualised and coloured in red).  
    * 2 x NAG  
-   * 1 x NAG-NAG  
+   * 1 x NAG-NAG
+   * ![Ligands Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/ligands%20white.png)
+
 2.  Active Sites: Tyrosine Kinase Domain:  
    * Location: The active site is in the C-terminal region of EGFR  
 3. Binding Sites: Site 1 (Domain I), Site 2 (Domain III), Site 3 (Domain III)  
