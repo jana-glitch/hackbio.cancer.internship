@@ -62,7 +62,8 @@ Overexpression or mutations in EGFR can lead to uncontrolled cell proliferation.
   * Agonist (1Z9I): RMSD \= 8.579  
   * Antagonist (1M17): RMSD \= 16.406  
   * Apo (3KEX): RMSD \= 12.536
-  * ![Comparison Swiss Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/comparison%20swiss.png)
+  * ![Comparison Alpha Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/comparison%20alpha.png)
+
 
 * Homology Modeling (SWISS-MODEL):  
   * Agonist (1Z9I): RMSD \= 8.715  
