@@ -43,6 +43,8 @@ Overexpression or mutations in EGFR can lead to uncontrolled cell proliferation.
      * Y251A and F263A: Individual mutations had negligible effects.  
    * Domain II-III Interface Mutation:  
      * R405E: Abolished EGF-dependent ERK phosphorylation and high-affinity EGF binding, highlighting the importance of domain-domain interaction.
+![Mutations Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/mutations%20white.png)
+
 
 **Protein Modeling Techniques**
 
@@ -59,11 +61,15 @@ Overexpression or mutations in EGFR can lead to uncontrolled cell proliferation.
 * AlphaFold Model:  
   * Agonist (1Z9I): RMSD \= 8.579  
   * Antagonist (1M17): RMSD \= 16.406  
-  * Apo (3KEX): RMSD \= 12.536  
+  * Apo (3KEX): RMSD \= 12.536
+  * ![Comparison Swiss Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/comparison%20swiss.png)
+
 * Homology Modeling (SWISS-MODEL):  
   * Agonist (1Z9I): RMSD \= 8.715  
   * Antagonist (1M17): RMSD \= 16.476  
   * Apo (3KEX): RMSD \= 12.696
+  * ![Comparison Swiss Image](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/comparison%20swiss.png)
+
 
 **Conclusion**   
 Despite apparent similarities, the SWISS-MODEL showed ligands while the AlphaFold model did not. Both techniques provide valuable insights into the protein structure, though AlphaFold generally offers superior accuracy.
