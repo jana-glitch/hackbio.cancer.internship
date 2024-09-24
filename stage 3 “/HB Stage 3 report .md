@@ -69,7 +69,7 @@ The methodology for protein structure acquisition and molecular docking is highl
 
 Visualisations of the HDAC2 protein structure and its active site, and docking results of the best 5 ligands were generated using PyMOL.
 
-![][image1]
+![HDAC2 Chain A](/hdac2%20chain%20a.png)
 
 ![][image2]
 
@@ -85,7 +85,7 @@ This analysis suggests that phytochemicals from Camellia sinensis can work as po
 2. Fujiki, H., Suganuma, M., Okabe, S., Sueoka, E., Komori, A., Sueoka, N., & Yoshizawa, S. (2002). Cancer inhibition by green tea. Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis, 402(1-2), 307-310.  
 3. Khan, N., & Mukhtar, H. (2013). Tea and health: Studies in humans. Current Pharmaceutical Design, 19(34), 6141-6147.  
 4. Llovet, J. M., et al. (2008). Design and end points of clinical trials in hepatocellular carcinoma. Journal of the National Cancer Institute, 100(19), 1384-1395.  
-5. Ropero, S. and Esteller, M. (2007). The role of histone deacetylases (hdacs) in human cancer. Molecular Oncology, 1(1), 19-25. https://doi.org/10.1016/j.molonc.2007.01.001  
+5. Ropero, S. and Esteller, M. (2007). The role of histone deacetylases (hdacs) in human cancer. Molecular Oncology, 1(1), 19-25.
 6. Yang, C. S., Wang, X., Lu, G., & Picinich, S. C. (2009). Cancer prevention by tea: Animal studies, molecular mechanisms, and human relevance. Nature Reviews Cancer, 9(6), 429-439.
 
 ---
