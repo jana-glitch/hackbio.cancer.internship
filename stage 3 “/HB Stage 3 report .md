@@ -69,6 +69,8 @@ The methodology for protein structure acquisition and molecular docking is highl
 
 Visualisations of the HDAC2 protein structure and its active site, and docking results of the best 5 ligands were generated using PyMOL.
 ![HDAC2 Chain A](hdac2%20chain%20a.png)
+![HDAC AS](hdac%20as.png)
+
 
 #### **Conclusion**
 
