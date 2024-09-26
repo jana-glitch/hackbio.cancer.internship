@@ -119,7 +119,7 @@ This analysis focuses on bioactivity data for the target protein HDAC2 (Histone 
 - **Performance Metrics**: Models were assessed using metrics such as RMSE, R-squared, and MAE. Cross-validation was used to ensure robust performance metrics.
 
 ### Results:
-- **Random Forest** achieved the highest performance, with an RMSE of 0.777422, an R-squared of 0.630723, and an MAE of 0.588290, indicating its strong predictive capabilities.
+- **Random Forest** achieved the highest performance, with an RMSE: 0.7666083198866271, MAE: 0.5806533160751471, R2: 0.6175794080213353, indicating its strong predictive capabilities.
 
 ## 3. Importance of Features and Their Influence on Bioactivity
 
