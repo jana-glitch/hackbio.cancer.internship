@@ -90,7 +90,7 @@ This analysis suggests that phytochemicals from Camellia sinensis can work as po
 
 ### **(phase 2\)**
 
-### **Bioactivity Data Analysis and Machine Learning Pipeline**
+### **Bioactivity Data Analysis and Machine Learning**
 
 ### **1\. Dataset and Preprocessing Steps**
 
