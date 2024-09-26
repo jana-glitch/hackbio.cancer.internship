@@ -98,12 +98,12 @@ This analysis suggests that phytochemicals from Camellia sinensis can work as po
 This analysis focuses on bioactivity data for the target protein HDAC2 (Histone Deacetylase 2), which is involved in various biological processes, including cancer. The data was sourced from the ChEMBL database and contains crucial information such as IC50 values, canonical SMILES, and molecular descriptors. It also includes details like target name, organism (e.g., *Homo sapiens*), and target type (SINGLE PROTEIN).
 
 ### Preprocessing Steps:
-- **Data Retrieval**: Bioactivity data for HDAC2 was obtained using the ChEMBL client.
+- **Data Retrieval**: Bioactivity data for HDAC2 was obtained using the ChEMBL.
 - **Molecule Preparation**: RDKit was used to manage chemical structures, generate molecular descriptors, and preprocess the dataset.
 - **Lipinski’s Rule of Five**: Compounds were filtered based on drug-like properties, including molecular weight, LogP, hydrogen bond donors, and acceptors, to predict oral bioavailability.
 
 ### Preprocessing Outputs:
-- **Missing Data Handling**: Rows with missing values in critical columns (`standard_value` and `canonical_smiles`) were removed, resulting in a cleaned dataset of **X rows × Y columns**.
+- **Missing Data Handling**: Rows with missing values in critical columns (`standard_value` and `canonical_smiles`) were removed, resulting in a cleaned dataset.
 - **Data Transformation**: Key columns (`molecule_chembl_id`, `canonical_smiles`, and `standard_value`) were combined to create a new DataFrame. Bioactivity classes were assigned based on IC50 values into categories: 'active', 'intermediate', and 'inactive'.
 - **Lipinski Descriptors**: Molecular descriptors such as molecular weight, LogP, and hydrogen bond donors/acceptors were calculated.
 - **IC50 Conversion**: IC50 values were transformed into pIC50 values for better interpretability and scaling.
