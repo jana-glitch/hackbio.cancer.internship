@@ -177,7 +177,8 @@ Figure 10 : visualisation of HDAC10  with the ligand TMP269
 ![11 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/11%20hdac.png)
 Figure 11: visualisation of HDAC11 with the ligand Pelargonidin 
 
-![BA-dock](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/BA-dock.png)
+![mean BA-dock](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/mean%20BA-dock.png)
+
 
 Figure 12: a heatmap from the mean of the docking scores of the 11 HDAC subtypes
 
