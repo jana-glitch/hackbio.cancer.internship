@@ -133,7 +133,8 @@ HDACs are promising targets for cancer therapy due to their role in tumorigenesi
 
 **Visualisations**
 
-![][image2]
+![1 hdac](https://raw.githubusercontent.com/jana-glitch/hackbio.cancer.internship/main/1%20hdac.png)
+
 
 Figure 1: visualisation of HDAC1 with the ligand epicatechin 
 
